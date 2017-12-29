@@ -8,4 +8,5 @@ import android.widget.TextView;
 
 public class MainShoppingLists {
     private TextView mTextMessage;
+
 }
